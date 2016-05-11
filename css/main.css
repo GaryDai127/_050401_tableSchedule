@@ -1,0 +1,48 @@
+h2{
+	text-align: center;	
+}
+hr{
+	width: 620px;
+	height: 3px;
+	color: chartreuse;
+}
+#schedule{
+	margin: auto;
+	text-align: center;
+	border: double 5px dodgerblue;
+	width: 640px;
+	height: 480px;
+}
+table{
+	margin: auto;
+	border: solid 2px mediumpurple;
+	align-content: center;
+	width: 620px;
+	height: 380px;
+}
+.flower{
+	width: 25px;
+	height: 25px;
+}
+.boy{
+	width: 80px;
+	height: 80px;
+}
+tr, td{
+	height: 40px;
+}
+.col_rule{
+	width: 70px;
+	font-weight: bold;
+	color: orangered;
+}
+.half_day{
+	width: 30px;
+	color: orangered
+}
+.set_color{
+	color: orangered;
+}
+.time{
+	width: 120px;
+}
